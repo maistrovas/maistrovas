@@ -15,7 +15,6 @@
 [<img align="left" alt="maistrovas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
-<br />
 ### Languages and tools I use:
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>]
@@ -67,8 +66,6 @@
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/todoist.svg"/>]
 
-
-<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maistrovas&count_private=true&show_icons=true&theme=dark)
 
