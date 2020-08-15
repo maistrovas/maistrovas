@@ -24,18 +24,18 @@
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> -->
 
 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg)
-![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)
-![Type Script](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg)
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg =22x22)
+![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg  =22x22)
+![Type Script](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg  =22x22)
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg  =22x22)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg  =22x22)
 <br/>
 
 <!-- <img align="left" alt="Django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"/>
 <img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"/> -->
 
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg  =22x22)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg  =22x22)
 
 <br/>
 
