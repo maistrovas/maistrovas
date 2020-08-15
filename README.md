@@ -5,7 +5,7 @@
 ### Couple of facts bout me:
 - I am self-taugh developer 📚. Which means I figured out how to teach myself 👨‍🏫 and incorporated habit of constant learning
 - I am remote-first 🌎 developer
-- I practice fasting, my Deadlift PR is 360lb, I run 🏃‍♂️ ~30km each week, I am candidate master of sports in soccer ⚽️
+- I practice fasting, my weight is 147lb I Deadlift PR is 360lb , I run 🏃‍♂️ ~30km each week, I am candidate master of sports in soccer ⚽️
 - I love books 📖 
 
 
