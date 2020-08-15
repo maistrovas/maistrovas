@@ -17,27 +17,34 @@
 <br/>
 
 ### Languages and tools I use:
-<!-- <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+
+#### Langs:
+
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 <img align="left" alt="Type Script" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
-<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> -->
+<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
 
 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg =22x22)
-![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg  =22x22)
-![Type Script](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg  =22x22)
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg  =22x22)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg  =22x22)
+<!-- ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg)
+![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)
+![Type Script](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg)
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg) -->
+<!-- <br/> -->
+
+#### Frameworks:
+
+<img align="left" alt="Django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"/>
+<img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"/>
+
+<!-- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg) -->
+
 <br/>
 
-<!-- <img align="left" alt="Django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"/>
-<img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"/> -->
-
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg  =22x22)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg  =22x22)
-
-<br/>
+#### Storages:
 
 <img align="left" alt="PostgreSLQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"/>
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
@@ -46,6 +53,8 @@
 <img align="left" alt="REdis" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"/>
 
 <br/>
+
+#### Ops:
 
 <img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"/>
 <img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"/>
@@ -59,11 +68,15 @@
 
 <br/>
 
+#### 🦻👀
+
 <img align="left" alt="prometheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prometheus.svg"/>
 <img align="left" alt="New Relik" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/newrelic.svg"/>
 <img align="left" alt="Sentry" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sentry.svg"/>
 
 <br/>
+
+#### Other:
 
 <img align="left" alt="PyCharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg"/>
 <img align="left" alt="Sublime Text" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg"/>
@@ -74,6 +87,8 @@
 <img align="left" alt="Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"/>
 
 <br/>
+
+#### Organize:
 
 <img align="left" alt="Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg"/>
 <img align="left" alt="Zoom" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zoom.svg"/>
