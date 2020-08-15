@@ -1,8 +1,8 @@
-### Hi there, I'm Alex 👋
+## Hi there, I'm Alex 👋
 
-#### I'm a Software Developer 🧑‍💻, Athlete️ 🏋️, Mentor 👨‍🏫!
+### I'm a Software Developer 🧑‍💻  Athlete️ 🏋️ and Mentor 👨‍🏫
 
-#### Couple of facts bout me:
+### Couple of facts bout me:
 - I am self-taught 📚. Which means I figured out how to teach myself 👨‍🏫 and incorporated habit of constant learning
 - I am remote-first 🌎 developer
 - I practice fasting, my Deadlift PR is 360lb, I run 🏃‍♂️ ~30km each week, I am candidate master of sports in soccer ⚽️
@@ -14,8 +14,9 @@
 [<img align="left" alt="maistrovas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="maistrovas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-### Languages and tools I use:
 
+<br />
+### Languages and tools I use:
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>]
@@ -65,7 +66,6 @@
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlehangoutsmeet.svg"/>]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>]
 [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/todoist.svg"/>]
-
 
 
 <br />
