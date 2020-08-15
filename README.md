@@ -17,16 +17,25 @@
 <br/>
 
 ### Languages and tools I use:
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+<!-- <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 <img align="left" alt="Type Script" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
-<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
+<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> -->
 
+
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg)
+![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)
+![Type Script](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg)
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg)
 <br/>
 
-<img align="left" alt="Django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"/>
-<img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"/>
+<!-- <img align="left" alt="Django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"/>
+<img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"/> -->
+
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg)
 
 <br/>
 
