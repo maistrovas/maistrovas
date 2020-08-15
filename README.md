@@ -26,21 +26,13 @@
 <img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
 
-
-<!-- ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg)
-![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)
-![Type Script](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg)
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg) -->
-<!-- <br/> -->
+<br/>
 
 #### Frameworks:
 
 <img align="left" alt="Django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"/>
 <img align="left" alt="Flask" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"/>
 
-<!-- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg) -->
 
 <br/>
 
@@ -76,7 +68,7 @@
 
 <br/>
 
-#### Other:
+#### Miscellaneous:
 
 <img align="left" alt="PyCharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg"/>
 <img align="left" alt="Sublime Text" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg"/>
@@ -96,6 +88,7 @@
 <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>
 <img align="left" alt="Todoist" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/todoist.svg"/>
 
+<br/>
 <br/>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maistrovas&count_private=true&show_icons=true)
