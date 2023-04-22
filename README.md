@@ -3,7 +3,7 @@
 ### I'm a Software Developer 🧑‍💻  Athlete️ 🏋️ and Mentor 👨‍🏫
 
 ### Couple of facts bout me:
-- I am self-taugh developer 📚. Which means I figured out how to teach myself 👨‍🏫 and incorporated habit of constant learning
+- I am self-taugh developer and researcher 📚. Which means I figured out how to teach myself 👨‍🏫 and incorporated habit of constant learning
 - I am remote-first 🌎 developer
 - I practice fasting, my weight is 147lb my Deadlift PR is 360lb , I run 🏃‍♂️ ~30km each week, I am candidate master of sports in soccer ⚽️
 - I love books 📖 
